@@ -22,13 +22,13 @@ export default function Home() {
     <div>
       <HomeHeader>
         <HomeIcon className="fa-solid fa-globe"></HomeIcon>
-        <h1>Global Solutions</h1>
+        <h1>We Care</h1>
       </HomeHeader>
       <HomeImage src="images/hospitalwallpaper.jpg" alt="" />
       <HomeMain>
         <HomeContainer>
           <div>
-            <h1>Seja bem-vindo à Global Solutions!</h1>
+            <h1>Seja bem-vindo à We Care!</h1>
             <p>
               Somos especialistas da saúde, tendo unidades em todo o mundo,
               feitas para auxiliar com qualquer dúvida relacionada à sua saúde.
